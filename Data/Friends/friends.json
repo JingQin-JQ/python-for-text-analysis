@@ -1,0 +1,46 @@
+{
+    "Chantal": {
+        "age": 27,
+        "favorite_animal": "cat",
+        "first name": "Chantal",
+        "gender": "female",
+        "last name": "van Son",
+        "siblings": [
+            "Dennis",
+            "Kelly"
+        ],
+        "single": false
+    },
+    "Jean": {
+        "age": 30,
+        "favorite_animal": "dog",
+        "first name": "Jean",
+        "gender": "male",
+        "last name": "van der Sluijs",
+        "siblings": [
+            "Leo"
+        ],
+        "single": false
+    },
+    "Laura": {
+        "age": 25,
+        "favorite_animal": "platypus",
+        "first name": "Laura",
+        "gender": "female",
+        "last name": "Kamphuis",
+        "siblings": [
+            "Danique",
+            "Lisa"
+        ],
+        "single": false
+    },
+    "Patrick": {
+        "age": 26,
+        "favorite_animal": "giraffe",
+        "first name": "Patrick",
+        "gender": "male",
+        "last name": "van der Plas",
+        "siblings": null,
+        "single": true
+    }
+}
